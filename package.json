@@ -24,7 +24,7 @@
     "@dazn/lambda-powertools-correlation-ids": "^1.8.2",
     "@dazn/lambda-powertools-logger": "^1.15.2",
     "@dazn/lambda-powertools-pattern-basic": "^1.15.2",
-    "aws-sdk": "^2.576.0",
+    "aws-sdk": "^2.814.0",
     "aws-xray-sdk-core": "^2.5.0",
     "aws4": "^1.8.0",
     "awscred": "^1.5.0",
